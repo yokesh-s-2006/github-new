@@ -1,2 +1,1 @@
-created test1.txt
-u ru an git developer now ok
+new changes
